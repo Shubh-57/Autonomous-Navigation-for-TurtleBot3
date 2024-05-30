@@ -18,3 +18,5 @@ This project focuses on developing an autonomous navigation system for the Turtl
   - Angular (Step 1): Kp = 0.3, Ki = 0.0, Kd = 0.1
   - Angular (Step 2): Kp = 1.0, Ki = 0.0, Kd = 0.1
   - Decay Factor: decay_k = 2
+
+https://github.com/Shubh-57/Autonomous-Navigation-for-TurtleBot3/assets/138125561/f362158e-1d0b-42a8-b09f-6249724fe540
