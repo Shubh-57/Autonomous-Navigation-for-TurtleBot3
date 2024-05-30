@@ -20,8 +20,8 @@ This project focuses on developing an autonomous navigation system for the Turtl
   - Decay Factor: decay_k = 2
 
 ## Visualization
-__Location:__ x = 0.0, y = 0.5, yaw = 0.0 <br />
-i) Without the exponential decay factor
+__Location:__ x = 0.0, y = 0.5, yaw = 0.0\
+i) Without the exponential decay factor\
 https://github.com/Shubh-57/Autonomous-Navigation-for-TurtleBot3/assets/138125561/c61bb660-a9e8-49cc-9a13-c0327365ccc0
-ii) With the exponential decay factor
+ii) With the exponential decay factor\
 https://github.com/Shubh-57/Autonomous-Navigation-for-TurtleBot3/assets/138125561/f362158e-1d0b-42a8-b09f-6249724fe540
