@@ -14,17 +14,18 @@ This project focuses on developing an autonomous navigation system for the Turtl
 - __Maximum Linear Velocity:__ 0.22 m/s
 - __Maximum Angular Velocity:__ 2.84 rad/s
 - __PID Parameters:__
-  - Linear: Kp = __1.0__, Ki = __0.0__, Kd = __0.1__
-  - Angular (Step 1): Kp = __0.3__, Ki = __0.0__, Kd = __0.1__
-  - Angular (Step 2): Kp = __1.0__, Ki = __0.0__, Kd = __0.1__
-  - Decay Factor: decay_k = __2__
+  - Linear: __Kp = 1.0__, __Ki = 0.0__, __Kd = 0.1__
+  - Angular (Step 1): __Kp = 0.3__, __Ki = 0.0__, __Kd = 0.1__
+  - Angular (Step 2): __Kp = 1.0__, __Ki = 0.0__, __Kd = 0.1__
+  - Decay Factor: __decay_k = 2__
 
 ## Visualization
-__Location:__ x = __0.0__, y = __0.5__, yaw = __0.0__\\
-*i) Without the exponential decay factor*
+__Location:__ x = __0.0__, y = __0.5__, yaw = __0.0__\
+\
+*i) Without the exponential decay factor (cannot reach the specified location)*
 
 https://github.com/Shubh-57/Autonomous-Navigation-for-TurtleBot3/assets/138125561/c61bb660-a9e8-49cc-9a13-c0327365ccc0
 
-*ii) With the exponential decay factor*
+*ii) With the exponential decay factor (can reach the specified location)*
 
 https://github.com/Shubh-57/Autonomous-Navigation-for-TurtleBot3/assets/138125561/f362158e-1d0b-42a8-b09f-6249724fe540
