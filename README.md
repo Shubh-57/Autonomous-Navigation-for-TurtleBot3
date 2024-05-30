@@ -10,11 +10,11 @@ This project focuses on developing an autonomous navigation system for the Turtl
 - __Robust Error Handling:__ Fine-tuned PID parameters to handle various scenarios and disturbances effectively.
 
 ## Technical Details
-- __Languages and Tools:__ Python, ROS (Robot Operating System)
+- __Languages and Tools:__ Python, ROS (Robot Operating System), Gazebo
 - __Maximum Linear Velocity:__ 0.22 m/s
 - __Maximum Angular Velocity:__ 2.84 rad/s
 - __PID Parameters:__
   -  Linear: Kp = 1.0, Ki = 0.0, Kd = 0.1
-  - Angular (Step 1): Kp1 = 0.3, Ki1 = 0.0, Kd1 = 0.1
-  - Angular (Step 2): Kp2 = 1.0, Ki2 = 0.0, Kd2 = 0.1
+  - Angular (Step 1): Kp = 0.3, Ki = 0.0, Kd = 0.1
+  - Angular (Step 2): Kp = 1.0, Ki = 0.0, Kd = 0.1
   - Decay Factor: decay_k = 2
