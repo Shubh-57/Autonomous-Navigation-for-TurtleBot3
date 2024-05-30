@@ -20,7 +20,7 @@ This project focuses on developing an autonomous navigation system for the Turtl
   - Decay Factor: __decay_k = 2__
 
 ## Visualization
-__Location:__ x = __0.0__, y = __0.5__, yaw = __0.0__ *(very close to inital location of the robot but with considerable initial angular error)*\
+__Goal-Location:__ x = __0.0__, y = __0.5__, yaw = __0.0__ *(very close to inital location of the robot but with considerable initial angular error)*\
 \
 *i) Without the exponential decay factor (cannot reach the specified location)*
 
